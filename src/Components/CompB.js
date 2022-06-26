@@ -5,6 +5,7 @@ const CompB = () => {
         <div>
             I am Comp B from manasi-dev1 branch
             <p>I am paragraph from manasi-dev1 branch</p>
+            <p>I am paragraph from manasi-dev branch</p>
         </div>
     )
 }
