@@ -3,7 +3,7 @@ import React from "react";
 const CompB = () => {
     return(
         <div>
-            I am Comp b
+            I am Comp B from manasi-dev1 branch
         </div>
     )
 }
